@@ -8,3 +8,8 @@ TBD
 - No signups needed, your object is your account!
 ## Demo
 TBD
+## Resources
+- ReactJ.js
+- Tensorflow
+- Tensorflow.js
+- Heroku
